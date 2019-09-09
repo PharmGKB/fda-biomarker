@@ -1,14 +1,25 @@
+require('dotenv').config();
 const fs = require('fs');
 const md5 = require('md5');
 const axios = require('axios');
 const tabletojson = require('tabletojson');
 const {JSDOM} = require("jsdom");
 
+const slackUrl = process.env.SLACK_URL;
 const sourceUrl = 'https://www.fda.gov/drugs/science-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling';
 const fileName = './fda_pgx_biomarker_table.json';
 
 const whitespaceRegex = /[ \n\t]{2,}/gm;
 const footnoteRegex = /[†*]$/gm;
+
+/**
+ * If the SLACK_URL env var is configured, use that webhook to post a message
+ * @param text the message to post
+ * @returns {Promise<void>} the POST promise
+ */
+const postSlack = async (text) => {
+  slackUrl && await axios.post(slackUrl, {text});
+};
 
 axios
   .get(sourceUrl)
@@ -49,11 +60,14 @@ axios
         );
         fs.writeFileSync(fileName, prettyJson);
         console.log(`Successfully wrote table data to ${fileName}`);
+        postSlack(':exclamation: Detected changes in the biomarker table');
       } else {
         console.log('No table change detected, no update to file');
+        postSlack('Checked the biomarker table, no changes detected.');
       }
     });
   })
   .catch((e) => {
     console.error("There was a problem downloading the FDA list: " + e);
+    postSlack('Error running the biomarker checker: ' + e);
   });

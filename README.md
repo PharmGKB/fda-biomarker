@@ -17,6 +17,8 @@ Make sure you have [Node.js](https://nodejs.org/en/) and [NPM](https://www.npmjs
 npm i
 ```
 
+Additionally, if you make a `.env` file with `SLACK_URL` specified with a Slack webhook URL then this will post result messages to Slack. If it's not specified then it will just post to console.
+
 
 ## Running
 
