@@ -1,7 +1,7 @@
 {
-  "collectedOn": "2019-09-08T06:31:17.763Z",
+  "collectedOn": "2020-02-10T22:36:07.321Z",
   "sourceUrl": "https://www.fda.gov/drugs/science-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling",
-  "tableHash": "4eefd60f439096ed98b6d8a585da12ef",
+  "tableHash": "8c1d71b2bf2d4d1eea6a825412dd4544",
   "table": [
     {
       "Drug": "Abacavir",
@@ -472,6 +472,12 @@
       "Labeling Sections": "Boxed Warning, Warnings and Precautions, Use in Specific Populations, Patient Counseling Information"
     },
     {
+      "Drug": "Crizanlizumab-tmca",
+      "Therapeutic Area": "Hematology",
+      "Biomarker": "HBB",
+      "Labeling Sections": "Adverse Reactions, Clinical Studies"
+    },
+    {
       "Drug": "Crizotinib (1)",
       "Therapeutic Area": "Oncology",
       "Biomarker": "ALK",
@@ -682,6 +688,12 @@
       "Labeling Sections": "Clinical Studies"
     },
     {
+      "Drug": "Elexacaftor, Ivacaftor, and Tezacaftor",
+      "Therapeutic Area": "Pulmonary",
+      "Biomarker": "CFTR",
+      "Labeling Sections": "Indications and Usage, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
+    },
+    {
       "Drug": "Eliglustat",
       "Therapeutic Area": "Inborn Errors of Metabolism",
       "Biomarker": "CYP2D6",
@@ -736,10 +748,22 @@
       "Labeling Sections": "Indications and Usage, Dosage and Administration, Warnings and Precautions, Adverse Reactions, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
     },
     {
-      "Drug": "Enflurane",
-      "Therapeutic Area": "Anesthesiology",
-      "Biomarker": "Nonspecific (Genetic Susceptibility to Malignant Hyperthermia)",
-      "Labeling Sections": "Contraindications"
+      "Drug": "Enfortumab Vedotin-ejfv",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "NECTIN4",
+      "Labeling Sections": "Clinical Studies"
+    },
+    {
+      "Drug": "Entrectinib (1)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "ROS1",
+      "Labeling Sections": "Indications and Usage, Dosage and Administration, Adverse Reactions, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
+    },
+    {
+      "Drug": "Entrectinib (2)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "NTRK",
+      "Labeling Sections": "Indications and Usage, Dosage and Administration, Adverse Reactions, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
     },
     {
       "Drug": "Erdafitinib (1)",
@@ -796,6 +820,24 @@
       "Labeling Sections": "Drug Interactions, Clinical Pharmacology"
     },
     {
+      "Drug": "Estradiol and Progesterone (1)",
+      "Therapeutic Area": "Gynecology",
+      "Biomarker": "PROC",
+      "Labeling Sections": "Contraindications"
+    },
+    {
+      "Drug": "Estradiol and Progesterone (2)",
+      "Therapeutic Area": "Gynecology",
+      "Biomarker": "PROS1",
+      "Labeling Sections": "Contraindications"
+    },
+    {
+      "Drug": "Estradiol and Progesterone (3)",
+      "Therapeutic Area": "Gynecology",
+      "Biomarker": "SERPINC1 (Antithrombin III)",
+      "Labeling Sections": "Contraindications"
+    },
+    {
       "Drug": "Eteplirsen",
       "Therapeutic Area": "Neurology",
       "Biomarker": "DMD",
@@ -818,6 +860,12 @@
       "Therapeutic Area": "Oncology",
       "Biomarker": "ESR, PGR (Hormone Receptor)",
       "Labeling Sections": "Indications and Usage, Dosage and Administration, Clinical Studies"
+    },
+    {
+      "Drug": "Fam-Trastuzumab Deruxtecan-nxki",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "ERBB2 (HER2)",
+      "Labeling Sections": "Indications and Usage, Warnings and Precautions, Adverse Reactions, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
     },
     {
       "Drug": "Fesoterodine",
@@ -934,6 +982,12 @@
       "Labeling Sections": "Indications and Usage, Dosage and Administration, Clinical Studies"
     },
     {
+      "Drug": "Givosiran",
+      "Therapeutic Area": "Gastroenterology",
+      "Biomarker": "CPOX, HMBS, PPOX (Acute Hepatic Porphyria)",
+      "Labeling Sections": "Clinical Studies"
+    },
+    {
       "Drug": "Glimepiride",
       "Therapeutic Area": "Endocrinology",
       "Biomarker": "G6PD",
@@ -950,6 +1004,12 @@
       "Therapeutic Area": "Endocrinology",
       "Biomarker": "G6PD",
       "Labeling Sections": "Precautions"
+    },
+    {
+      "Drug": "Golodirsen",
+      "Therapeutic Area": "Neurology",
+      "Biomarker": "DMD",
+      "Labeling Sections": "Indications and Usage, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
     },
     {
       "Drug": "Goserelin",
@@ -1140,7 +1200,13 @@
     {
       "Drug": "Lapatinib (3)",
       "Therapeutic Area": "Oncology",
-      "Biomarker": "HLA-DQA1, HLA-DRB1",
+      "Biomarker": "HLA-DQA1",
+      "Labeling Sections": "Clinical Pharmacology"
+    },
+    {
+      "Drug": "Lapatinib (4)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "HLA-DRB1",
       "Labeling Sections": "Clinical Pharmacology"
     },
     {
@@ -1160,6 +1226,12 @@
       "Therapeutic Area": "Hematology",
       "Biomarker": "Chromosome 5q",
       "Labeling Sections": "Boxed Warning, Indications and Usage, Adverse Reactions, Use in Specific Populations, Clinical Studies"
+    },
+    {
+      "Drug": "Lenvatinib",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "Microsatellite Instability, Mismatch Repair",
+      "Labeling Sections": "Indications and Usage, Adverse Reactions, Clinical Studies"
     },
     {
       "Drug": "Lesinurad",
@@ -1216,6 +1288,12 @@
       "Labeling Sections": "Adverse Reactions"
     },
     {
+      "Drug": "Luspatercept–aamt",
+      "Therapeutic Area": "Hematology",
+      "Biomarker": "HBB",
+      "Labeling Sections": "Clinical Studies"
+    },
+    {
       "Drug": "Lusutrombopag (1)",
       "Therapeutic Area": "Hematology",
       "Biomarker": "F2 (Prothrombin)",
@@ -1256,6 +1334,12 @@
       "Therapeutic Area": "Neurology",
       "Biomarker": "CYP2D6",
       "Labeling Sections": "Warnings and Precautions"
+    },
+    {
+      "Drug": "Meloxicam",
+      "Therapeutic Area": "Anesthesiology",
+      "Biomarker": "CYP2C9",
+      "Labeling Sections": "Use in Specific Populations, Clinical Pharmacology"
     },
     {
       "Drug": "Mepivacaine (1)",
@@ -1432,6 +1516,18 @@
       "Labeling Sections": "Indications and Usage, Clinical Studies"
     },
     {
+      "Drug": "Nivolumab (4)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "EGFR",
+      "Labeling Sections": "Clinical Studies"
+    },
+    {
+      "Drug": "Nivolumab (5)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "ALK",
+      "Labeling Sections": "Clinical Studies"
+    },
+    {
       "Drug": "Nortriptyline",
       "Therapeutic Area": "Psychiatry",
       "Biomarker": "CYP2D6",
@@ -1585,7 +1681,7 @@
       "Drug": "Paroxetine",
       "Therapeutic Area": "Psychiatry",
       "Biomarker": "CYP2D6",
-      "Labeling Sections": "Drug Interactions"
+      "Labeling Sections": "Drug Interactions, Clinical Pharmacology"
     },
     {
       "Drug": "Patisiran",
@@ -1694,6 +1790,12 @@
       "Therapeutic Area": "Rheumatology",
       "Biomarker": "CYP2C9",
       "Labeling Sections": "Clinical Pharmacology"
+    },
+    {
+      "Drug": "Pitolisant",
+      "Therapeutic Area": "Psychiatry",
+      "Biomarker": "CYP2D6",
+      "Labeling Sections": "Dosage and Administration, Use in Specific Populations, Clinical Pharmacology"
     },
     {
       "Drug": "Ponatinib",
@@ -2182,6 +2284,12 @@
       "Labeling Sections": "Clinical Pharmacology"
     },
     {
+      "Drug": "Upadacitinib",
+      "Therapeutic Area": "Rheumatology",
+      "Biomarker": "CYP2D6",
+      "Labeling Sections": "Clinical Pharmacology"
+    },
+    {
       "Drug": "Ustekinumab",
       "Therapeutic Area": "Dermatology and Gastroenterology",
       "Biomarker": "IL12A, IL12B, IL23A",
@@ -2288,6 +2396,12 @@
       "Therapeutic Area": "Psychiatry",
       "Biomarker": "CYP2D6",
       "Labeling Sections": "Dosage and Administration, Clinical Pharmacology"
+    },
+    {
+      "Drug": "Voxelotor",
+      "Therapeutic Area": "Hematology",
+      "Biomarker": "HBB",
+      "Labeling Sections": "Clinical Pharmacology, Clinical Studies"
     },
     {
       "Drug": "Warfarin (1)",
