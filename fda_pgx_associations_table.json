@@ -1,0 +1,756 @@
+{
+  "collectedOn": "2020-02-20T20:26:51.036Z",
+  "sourceUrl": "https://www.fda.gov/medical-devices/precision-medicine/table-pharmacogenetic-associations",
+  "tableHash": "eaf25f841c19e96c5ad6217e6286e28b",
+  "table": [
+    {
+      "Drug": "Abacavir",
+      "Gene": "HLA-B",
+      "Affected Subgroups+": "*57:01 allele positive",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (hypersensitivity reactions). Do not use abacavir in patients positive for HLA-B*57:01.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Amifampridine",
+      "Gene": "NAT2",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk. Use lowest recommended starting dosage and monitor for adverse reactions. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Amifampridine Phosphate",
+      "Gene": "NAT2",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Use lowest recommended starting dosage (15 mg/day) and monitor for adverse reactions.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Amphetamine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "May affect systemic concentrations and adverse reaction risk. Consider lower starting dosage or use alternative agent.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Aripiprazole",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk. Dosage adjustment is recommended. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Aripiprazole Lauroxil",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Dosage adjustment is recommended. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Atomoxetine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk. Adjust titration interval and increase dosage if tolerated. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Azathioprine",
+      "Gene": "TPMT and/or NUDT15",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Alters systemic active metabolite concentration and dosage requirements. Results in higher adverse reaction risk (myelosuppression). Consider alternative therapy in poor metabolizers. Dosage reduction is recommended in intermediate metabolizers for NUDT15 or TPMT. Intermediate metabolizers for both genes may require more substantial dosage reductions. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Belinostat",
+      "Gene": "UGT1A1",
+      "Affected Subgroups+": "*28/*28 (poor metabolizers)",
+      "Description of Gene-Drug Interaction": "May result in higher systemic concentrations and higher adverse reaction risk. Reduce starting dose to 750 mg/m2 in poor metabolizers.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Brexpiprazole",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Dosage adjustment is recommended. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Brivaracetam",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk. Consider dosage reductions in poor metabolizers.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Capecitabine",
+      "Gene": "DPYD",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (severe, life-threatening, or fatal toxicities). No dosage has proven safe in poor metabolizers, and insufficient data are available to recommend a dosage in intermediate metabolizers. Withhold or discontinue in the presence of early-onset or unusually severe toxicity.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Carbamazepine",
+      "Gene": "HLA-B",
+      "Affected Subgroups+": "*15:02 allele positive",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (severe skin reactions). Avoid use unless potential benefits outweigh risks and consider risks of alternative therapies. Patients positive for HLA-B*15:02 may be at increased risk of severe skin reactions with other drugs that are associated with a risk of Stevens Johnson Syndrome/Toxic Epidermal necrolysis (SJS/TEN). Genotyping is not a substitute for clinical vigilance.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Celecoxib",
+      "Gene": "CYP2C9",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Reduce starting dose to half of the lowest recommended dose in poor metabolizers. Consider alternative therapy in patients with juvenile rheumatoid arthritis.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Citalopram",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and adverse reaction risk (QT prolongation). The maximum recommended dose is 20 mg.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Clobazam",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic active metabolite concentrations. Poor metabolism results in higher adverse reaction risk. Dosage adjustment is recommended. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Clopidogrel",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in lower systemic active metabolite concentrations, lower antiplatelet response, and may result in higher cardiovascular risk. Consider use of another platelet P2Y12 inhibitor.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Clozapine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Dosage reductions may be necessary.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Codeine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic active metabolite concentrations and higher adverse reaction risk (life-threatening respiratory depression and death). Codeine is contraindicated in children under 12 years of age.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Deutetrabenazine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and adverse reaction risk (QT prolongation). The maximum recommended dosage should not exceed 36 mg (maximum single dose of 18 mg).",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Dronabinol",
+      "Gene": "CYP2C9",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May result in higher systemic concentrations and higher adverse reaction risk. Monitor for adverse reactions.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Eliglustat",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, normal, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Alters systemic concentrations, effectiveness, and adverse reaction risk (QT prolongation). Indicated for normal, intermediate, and poor metabolizer patients. Ultrarapid metabolizers may not achieve adequate concentrations to achieve a therapeutic effect. The recommended dosages are based on CYP2D6 metabolizer status. Coadministration with strong CYP3A inhibitors is contraindicated in intermediate and poor CYP2D6 metabolizers. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Erdafitinib",
+      "Gene": "CYP2C9",
+      "Affected Subgroups+": "*3/*3 (poor metabolizers)",
+      "Description of Gene-Drug Interaction": "May result in higher systemic concentrations and higher adverse reaction risk. Monitor for adverse reactions.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Flibanserin",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "May result in higher systemic concentrations and higher adverse reaction risk. Monitor patients for adverse reactions.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Flurbiprofen",
+      "Gene": "CYP2C9",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Use a reduced dosage.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Fluorouracil",
+      "Gene": "DPYD",
+      "Affected Subgroups+": "intermediate or poor metabolizer",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (severe, life-threatening, or fatal toxicities). No dosage has proven safe in poor metabolizers and insufficient data are available to recommend a dosage in intermediate metabolizers. Withhold or discontinue in the presence of early-onset or unusually severe toxicity.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Gefitinib",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk. Monitor for adverse reactions.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Iloperidone",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk (QT prolongation). Reduce dosage by 50%.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Irinotecan",
+      "Gene": "UGT1A1",
+      "Affected Subgroups+": "*28/*28 (poor metabolizers)",
+      "Description of Gene-Drug Interaction": "Results in higher systemic active metabolite concentrations and higher adverse reaction risk (severe neutropenia). Consider reducing the starting dosage by one level and modify the dosage based on individual patient tolerance.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Lofexidine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk. Monitor for orthostatic hypotension and bradycardia.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Meclizine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May affect systemic concentrations. Monitor for adverse reactions and clinical effect.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Metoclopramide",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk. The recommended dosage is lower. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Mercaptopurine",
+      "Gene": "TPMT and/or NUDT15",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Alters systemic active metabolite concentration and dosage requirements. Results in higher adverse reaction risk (myelosuppression). Initial dosages should be reduced in poor metabolizers; poor metabolizers generally tolerate 10% or less of the recommended dosage. Intermediate metabolizers may require dosage reductions based on tolerability. Intermediate metabolizers for both genes may require more substantial dosage reductions. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Mivacurium",
+      "Gene": "BCHE",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk (prolonged neuromuscular blockade). Avoid use in poor metabolizers.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Pantoprazole",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Consider dosage reduction in children who are poor metabolizers. No dosage adjustment is needed for adult patients who are poor metabolizers.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Pimozide",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Dosages should not exceed 0.05 mg/kg in children or 4 mg/day in adults who are poor metabolizers and dosages should not be increased earlier than 14 days.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Piroxicam",
+      "Gene": "CYP2C9",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Consider reducing dosage in poor metabolizers.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Propafenone",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk (arrhythmia). Avoid use in poor metabolizers taking a CYP3A4 inhibitor.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Siponimod",
+      "Gene": "CYP2C9",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Adjust dosage based on genotype. Do not use in patients with CYP2C9 *3/*3 genotype. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Succinylcholine",
+      "Gene": "BCHE",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk (prolonged neuromuscular blockade). Avoid use in poor metabolizers. May administer test dose to assess sensitivity and administer cautiously via slow infusion.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Tacrolimus",
+      "Gene": "CYP3A5",
+      "Affected Subgroups+": "intermediate or normal metabolizers",
+      "Description of Gene-Drug Interaction": "Results in lower systemic concentrations and lower probability of achieving target concentrations. Measure drug concentrations and adjust dosage based on trough whole blood tacrolimus concentrations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Tetrabenazine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. The maximum recommended single dose is 25 mg and should not exceed 50 mg/day.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Thioguanine",
+      "Gene": "TPMT and/or NUDT15",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Alters systemic active metabolite concentration and dosage requirements. Results in higher adverse reaction risk (myelosuppression). Initial dosages should be reduced in poor metabolizers; poor metabolizers generally tolerate 10% or less of the recommended dosage. Intermediate metabolizers may require dosage reductions based on tolerability. Intermediate metabolizers for both genes may require more substantial dosage reductions. Refer to FDA labeling for specific dosing recommendations.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Thioridazine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk (QT prolongation). Predicted effect based on experience with CYP2D6 inhibitors. Contraindicated in poor metabolizers.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Tramadol",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic and breast milk active metabolite concentrations, which may result in respiratory depression and death. Contraindicated in children under 12 and in adolescents following tonsillectomy/adenoidectomy. Breastfeeding is not recommended during treatment.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Valbenazine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic active metabolite concentrations and higher adverse reaction risk (QT prolongation). Dosage reductions may be necessary.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Venlafaxine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Alters systemic parent drug and metabolite concentrations. Consider dosage reductions.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Vortioxetine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. The maximum recommended dose is 10 mg.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Warfarin",
+      "Gene": "CYP2C9",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Alters systemic concentrations and dosage requirements. Select initial dosage, taking into account clinical and genetic factors. Monitor and adjust dosages based on INR.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Warfarin",
+      "Gene": "CYP4F2",
+      "Affected Subgroups+": "V433M variant carriers",
+      "Description of Gene-Drug Interaction": "May affect dosage requirements. Monitor and adjust doses based on INR.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Warfarin",
+      "Gene": "VKORC1",
+      "Affected Subgroups+": "-1639G>A variant carriers",
+      "Description of Gene-Drug Interaction": "Alters dosage requirements. Select initial dosage, taking into account clinical and genetic factors. Monitor and adjust dosages based on INR.",
+      "table": "recommendation"
+    },
+    {
+      "Drug": "Allopurinol",
+      "Gene": "HLA-B",
+      "Affected Subgroups+": "*58:01 allele positive",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (severe skin reactions).",
+      "table": "impact"
+    },
+    {
+      "Drug": "Carbamazepine",
+      "Gene": "HLA-A",
+      "Affected Subgroups+": "*31:01 allele positive",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (severe skin reactions). Consider risk and benefit of carbamazepine use in patients positive for HLA-A*31:01. Genotyping is not a substitute for clinical vigilance.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Carvedilol",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk (dizziness).",
+      "table": "impact"
+    },
+    {
+      "Drug": "Cevimeline",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "May result in higher adverse reaction risk. Use with caution.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Codeine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in lower systemic active metabolite concentrations and may result in reduced efficacy.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Efavirenz",
+      "Gene": "CYP2B6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk (QT prolongation).",
+      "table": "impact"
+    },
+    {
+      "Drug": "Isoniazid",
+      "Gene": "Nonspecific (NAT)",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "May result in higher systemic concentrations and adverse reaction risk.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Lapatinib",
+      "Gene": "HLA-DRB1",
+      "Affected Subgroups+": "*07:01 allele positive",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (hepatotoxicity). Monitor liver function tests regardless of genotype.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Lapatinib",
+      "Gene": "HLA-DQA1",
+      "Affected Subgroups+": "*02:01 allele positive",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (hepatotoxicity). Monitor liver function tests regardless of genotype.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Nilotinib",
+      "Gene": "UGT1A1",
+      "Affected Subgroups+": "*28/*28 (poor metabolizers)",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (hyperbilirubinemia).",
+      "table": "impact"
+    },
+    {
+      "Drug": "Oxcarbazepine",
+      "Gene": "HLA-B",
+      "Affected Subgroups+": "*15:02 allele positive",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (severe skin reactions). Patients positive for HLA-B*15:02 may be at increased risk of severe skin reactions with other drugs that are associated with a risk of Stevens Johnson Syndrome/Toxic Epidermal necrolysis (SJS/TEN). Genotyping is not a substitute for clinical vigilance.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Pazopanib",
+      "Gene": "HLA-B",
+      "Affected Subgroups+": "*57:01 allele positive",
+      "Description of Gene-Drug Interaction": "May result in higher adverse reaction risk (liver enzyme elevations). Monitor liver function tests regardless of genotype.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Pazopanib",
+      "Gene": "UGT1A1",
+      "Affected Subgroups+": "*28/*28 (poor metabolizers)",
+      "Description of Gene-Drug Interaction": "Results in higher adverse reaction risk (hyperbilirubinemia).",
+      "table": "impact"
+    },
+    {
+      "Drug": "Perphenazine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Procainamide",
+      "Gene": "Nonspecific (NAT)",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Alters systemic parent drug and metabolite concentrations. May result in higher adverse reaction risk.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Simvastatin",
+      "Gene": "SLCO1B1",
+      "Affected Subgroups+": "521 TC or 521 CC (intermediate or poor function transporters)",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk (myopathy). The risk of adverse reaction (myopathy) is higher for patients on 80 mg than for those on lower doses.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Sulfamethoxazole and Trimethoprim",
+      "Gene": "Nonspecific (NAT)",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "May result in higher adverse reaction risk.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Sulfasalazine",
+      "Gene": "Nonspecific (NAT)",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic metabolite concentrations and higher adverse reaction risk.",
+      "table": "impact"
+    },
+    {
+      "Drug": "Tolterodine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations and higher adverse reaction risk (QT prolongation).",
+      "table": "impact"
+    },
+    {
+      "Drug": "Amitriptyline",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May alter systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Amoxapine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May alter systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Avatrombopag",
+      "Gene": "CYP2C9",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Carisoprodol",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Use with caution.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Clomipramine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May alter systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Darifenacin",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Desipramine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May alter systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Dexlansoprazole",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Diazepam",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "May affect systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Dolutegravir",
+      "Gene": "UGT1A1",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Donepezil",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Alters systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Doxepin",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Doxepin",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May alter systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Elagolix",
+      "Gene": "SLCO1B1",
+      "Affected Subgroups+": "521 CC (poor function transporters)",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Escitalopram",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "May result in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Esomeprazole",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Fesoterodine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic active metabolite concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Fluvoxamine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Use with caution.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Galantamine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Titrate dosage based on tolerability.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Hydralazine",
+      "Gene": "Nonspecific (NAT)",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Imipramine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May alter systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Metoprolol",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Mirabegron",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Nebivolol",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "May result in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Nortriptyline",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May alter systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Omeprazole",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Paroxetine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May alter systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Propranolol",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "May affect systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Protriptyline",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Rabeprazole",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Raltegravir",
+      "Gene": "UGT1A1",
+      "Affected Subgroups+": "*28/*28 (poor metabolizers)",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Risperidone",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Alters systemic parent drug and metabolite concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Rosuvastatin",
+      "Gene": "SLCO1B1",
+      "Affected Subgroups+": "521 CC (poor function transporters)",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Tamoxifen",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in lower systemic active metabolite concentrations. The impact of CYP2D6 intermediate or poor metabolism on efficacy is not well established.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Tamsulosin",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations. Predicted effect based on experience with CYP2D6 inhibitors. Use with caution.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Trimipramine",
+      "Gene": "CYP2D6",
+      "Affected Subgroups+": "ultrarapid, intermediate, or poor metabolizers",
+      "Description of Gene-Drug Interaction": "May alter systemic concentrations.",
+      "table": "pk"
+    },
+    {
+      "Drug": "Voriconazole",
+      "Gene": "CYP2C19",
+      "Affected Subgroups+": "intermediate or poor metabolizers",
+      "Description of Gene-Drug Interaction": "Results in higher systemic concentrations.",
+      "table": "pk"
+    }
+  ]
+}
