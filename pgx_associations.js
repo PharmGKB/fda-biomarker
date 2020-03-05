@@ -21,15 +21,29 @@ const postSlack = async (text) => {
   slackUrl && await axios.post(slackUrl, {text});
 };
 
+/**
+ * Converts the given DOM Element to a JSON Object. Also, removes elements that we don't want to see translated into
+ * the final JSON Object (e.g. superscript elements)
+ * @param {Node} el the DOM Element to convert
+ * @returns {Object} A filtered JSON Object version of the given Element
+ */
+const convertElementToObject = (el) => {
+  const sups = el.getElementsByTagName('sup');
+  for (let sup of sups) {
+    sup.remove();
+  }
+  return tabletojson.convert(el.outerHTML)[0];
+};
+
 axios
   .get(sourceUrl)
   .then((r) => {
     const dom = new JSDOM(r.data);
-    const firstTable = tabletojson.convert(dom.window.document.querySelector('#main-content div div.inset-column:nth-of-type(1) table').outerHTML)[0];
+    const firstTable = convertElementToObject(dom.window.document.querySelector('#main-content div div.inset-column:nth-of-type(1) table'));
     firstTable.forEach((r) => r.table = 'recommendation');
-    const secondTable = tabletojson.convert(dom.window.document.querySelector('#main-content div div.inset-column:nth-of-type(2) table').outerHTML)[0];
+    const secondTable = convertElementToObject(dom.window.document.querySelector('#main-content div div.inset-column:nth-of-type(2) table'));
     secondTable.forEach((r) => r.table = 'impact');
-    const thirdTable = tabletojson.convert(dom.window.document.querySelector('#main-content div div.inset-column:nth-of-type(3) table').outerHTML)[0];
+    const thirdTable = convertElementToObject(dom.window.document.querySelector('#main-content div div.inset-column:nth-of-type(3) table'));
     thirdTable.forEach((r) => r.table = 'pk');
     const jsonData = [...firstTable, ...secondTable, ...thirdTable];
 

@@ -1,7 +1,7 @@
 {
-  "collectedOn": "2020-03-05T16:40:09.577Z",
+  "collectedOn": "2020-03-05T16:59:43.916Z",
   "sourceUrl": "https://www.fda.gov/medical-devices/precision-medicine/table-pharmacogenetic-associations",
-  "tableHash": "57d723b00456b92a0f08ab2db079e66f",
+  "tableHash": "ae98af550e62f7fabdffa1f26e886c8c",
   "table": [
     {
       "Drug": "Abacavir",
@@ -314,7 +314,7 @@
     {
       "Drug": "Tramadol",
       "Gene": "CYP2D6",
-      "Affected Subgroups+": "Ultrarapid metabolizers3",
+      "Affected Subgroups+": "Ultrarapid metabolizers",
       "Description of Gene-Drug Interaction": "Results in higher systemic and breast milk active metabolite concentrations, which may result in respiratory depression and death. Contraindicated in children under 12 and in adolescents following tonsillectomy/adenoidectomy. Breastfeeding is not recommended during treatment.",
       "table": "recommendation"
     },
