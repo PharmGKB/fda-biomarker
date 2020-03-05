@@ -45,7 +45,7 @@ axios
       table.push(normalLabel);
     });
 
-    const tableHash = md5(table);
+    const tableHash = md5(JSON.stringify(table, null, 2));
 
     fs.readFile(fileName, (err, data) => {
       // halt if there's a problem reading, but "missing file" (ENOENT) is ok
