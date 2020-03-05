@@ -13,6 +13,7 @@
   "devDependencies": {},
   "scripts": {
     "run": "node --harmony biomarker.js",
+    "assoc": "node --harmony pgx_associations.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ryan Whaley",
