@@ -80,14 +80,14 @@ axios
         );
         fs.writeFileSync(fileName, prettyJson);
         console.log(`Successfully wrote table data to ${fileName}`);
-        postSlack(':exclamation: Detected changes in the biomarker table');
+        postSlack(':exclamation: Detected changes in the PGx association table');
       } else {
         console.log('No table change detected, no update to file');
-        postSlack('Checked the biomarker table, no changes detected.');
+        postSlack('Checked the PGx association table, no changes detected.');
       }
     });
   })
   .catch((e) => {
     console.error("There was a problem downloading the FDA list: " + e);
-    postSlack('Error running the biomarker checker: ' + e);
+    postSlack('Error running the PGx assocation checker: ' + e);
   });
