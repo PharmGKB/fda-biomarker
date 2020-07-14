@@ -2,7 +2,7 @@ require('dotenv').config();
 const fs = require('fs');
 const md5 = require('md5');
 const axios = require('axios');
-const tabletojson = require('tabletojson');
+const tabletojson = require('tabletojson').Tabletojson;
 const {JSDOM} = require("jsdom");
 
 const slackUrl = process.env.SLACK_URL;
