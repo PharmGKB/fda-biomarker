@@ -47,6 +47,8 @@ axios
     thirdTable.forEach((r) => r.table = 'pk');
     const jsonData = [...firstTable, ...secondTable, ...thirdTable];
 
+    const fdaContentCurrentDate = dom.window.document.querySelector('div.node-current-date li div p time').innerHTML;
+
     const table = [];
     jsonData.forEach(l => {
       const normalLabel = {};
@@ -67,10 +69,11 @@ axios
 
       const previousTable = data && JSON.parse(data);
 
-      if (!previousTable || !previousTable.tableHash || previousTable.tableHash !== tableHash) {
+      if (!previousTable || !previousTable.tableHash || previousTable.tableHash !== tableHash || previousTable.fdaContentCurrentDate !== fdaContentCurrentDate) {
         const prettyJson = JSON.stringify(
           {
             collectedOn: new Date(),
+            fdaContentCurrentDate,
             sourceUrl,
             tableHash,
             table,

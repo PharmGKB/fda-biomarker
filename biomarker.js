@@ -26,6 +26,7 @@ axios
   .then((r) => {
     const dom = new JSDOM(r.data);
     const jsonData = tabletojson.convert(dom.window.document.querySelector('#guidance').outerHTML)[0];
+    const fdaContentCurrentDate = dom.window.document.querySelector('div.node-current-date li div p time').innerHTML;
 
     const table = [];
     jsonData.forEach(l => {
@@ -47,10 +48,11 @@ axios
 
       const previousTable = data && JSON.parse(data);
 
-      if (!previousTable || !previousTable.tableHash || previousTable.tableHash !== tableHash) {
+      if (!previousTable || !previousTable.tableHash || previousTable.tableHash !== tableHash || previousTable.fdaContentCurrentDate !== fdaContentCurrentDate) {
         const prettyJson = JSON.stringify(
           {
             collectedOn: new Date(),
+            fdaContentCurrentDate,
             sourceUrl,
             tableHash,
             table,
