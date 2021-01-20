@@ -1,8 +1,8 @@
 # FDA Table of Pharmacogenomic Biomarkers in Drug Labeling
 
-This code scrapes content from the "[Table of Pharmacogenomic Biomarkers in Drug Labeling](https://www.fda.gov/drugs/science-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling)" page on the FDA website. Specifically, this will transform the content of the "Pharmacogenomic Biomarkers in Drug Labeling" table into a JSON file for better computational use.
+This code scrapes content from the "[Table of Pharmacogenomic Biomarkers in Drug Labeling](https://www.fda.gov/drugs/science-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling)" page and the "[Table of Pharmacogenetic Associations](https://www.fda.gov/medical-devices/precision-medicine/table-pharmacogenetic-associations)" page on the FDA website. Specifically, this will transform the content of the tables on those pages into JSON files for better computational use.
 
-CAUTION: This data file strips out all footnotes and contextual information about the contents of the Biomarkers table. Go read the [original page](https://www.fda.gov/drugs/science-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling) before attempting to use this data.
+CAUTION: This data file strips out all footnotes and contextual information about the contents of the Biomarkers table. Go read the original source pages before attempting to use this data.
 
 The text is copied verbatim from the HTML source with the following exceptions:
 
