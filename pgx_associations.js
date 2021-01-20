@@ -10,7 +10,7 @@ const sourceUrl = 'https://www.fda.gov/medical-devices/precision-medicine/table-
 const fileName = './fda_pgx_associations_table.json';
 
 const whitespaceRegex = /[ \n\t]{2,}/gm;
-const footnoteRegex = /[†*]$/gm;
+const footnoteRegex = /[†*+]$/gm;
 
 /**
  * If the SLACK_URL env var is configured, use that webhook to post a message
