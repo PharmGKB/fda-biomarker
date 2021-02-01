@@ -8,6 +8,7 @@
     "dotenv": "^8.2.0",
     "jsdom": "^16.4.0",
     "md5": "^2.3.0",
+    "pg-promise": "^10.9.2",
     "tabletojson": "^2.0.4"
   },
   "devDependencies": {},
