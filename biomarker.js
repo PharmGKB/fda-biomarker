@@ -32,7 +32,7 @@ axios
     jsonData.forEach(l => {
       const normalLabel = {};
       for (const key in l) {
-        if (l.hasOwnProperty(key)) {
+        if (l.hasOwnProperty(key) && key !== '0') {
           // normalize both the key and the value of the map, removing unnecessary characters
           normalLabel[key.replace(footnoteRegex, '')] = l[key].replace(whitespaceRegex, ' ');
         }
