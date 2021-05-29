@@ -5,8 +5,8 @@
   "main": "biomarker.js",
   "dependencies": {
     "axios": "^0.21.1",
-    "dotenv": "^9.0.1",
-    "jsdom": "^16.5.3",
+    "dotenv": "^10.0.0",
+    "jsdom": "^16.6.0",
     "md5": "^2.3.0",
     "pg-promise": "^10.10.2",
     "tabletojson": "^2.0.6"
