@@ -1,8 +1,8 @@
 {
-  "collectedOn": "2021-03-24T20:58:23.091Z",
-  "fdaContentCurrentDate": "03/23/2021",
+  "collectedOn": "2021-08-23T12:01:05.018Z",
+  "fdaContentCurrentDate": "08/20/2021",
   "sourceUrl": "https://www.fda.gov/drugs/science-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling",
-  "tableHash": "4a3e348342f8dc75b03ff1cb6870b382",
+  "tableHash": "6872ca98c2393a9350d314b5cc03a8f2",
   "table": [
     {
       "Drug": "Abacavir",
@@ -29,6 +29,12 @@
       "Labeling Sections": "Indications and Usage, Dosage and Administration, Adverse Reactions, Clinical Pharmacology, Clinical Studies"
     },
     {
+      "Drug": "Aducanumab-avwa",
+      "Therapeutic Area": "Neurology",
+      "Biomarker": "APOE",
+      "Labeling Sections": "Warnings and Precautions, Clinical Studies"
+    },
+    {
       "Drug": "Afatinib",
       "Therapeutic Area": "Oncology",
       "Biomarker": "EGFR",
@@ -45,6 +51,12 @@
       "Therapeutic Area": "Inborn Errors of Metabolism",
       "Biomarker": "GAA",
       "Labeling Sections": "Warnings and Precautions"
+    },
+    {
+      "Drug": "Allopurinol",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "HLA-B",
+      "Labeling Sections": "Warnings"
     },
     {
       "Drug": "Alpelisib (1)",
@@ -81,6 +93,12 @@
       "Therapeutic Area": "Psychiatry",
       "Biomarker": "CYP2D6",
       "Labeling Sections": "Precautions"
+    },
+    {
+      "Drug": "Amivantamab-vmjw",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "EGFR",
+      "Labeling Sections": "Indications and Usage, Dosage and Administration, Adverse Reactions, Clinical Studies"
     },
     {
       "Drug": "Amoxapine",
@@ -188,13 +206,19 @@
       "Drug": "Ascorbic Acid, PEG-3350, Potassium Chloride, Sodium Ascorbate, Sodium Chloride, and Sodium Sulfate",
       "Therapeutic Area": "Gastroenterology",
       "Biomarker": "G6PD",
-      "Labeling Sections": "Warnings and Precautions"
+      "Labeling Sections": "Warnings and Precautions, Adverse Reactions"
     },
     {
-      "Drug": "Avapritinib",
+      "Drug": "Avapritinib (1)",
       "Therapeutic Area": "Oncology",
       "Biomarker": "PDGFRA",
       "Labeling Sections": "Indications and Usage, Dosage and Administration, Clinical Studies"
+    },
+    {
+      "Drug": "Avapritinib (2)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "KIT",
+      "Labeling Sections": "Clinical Studies"
     },
     {
       "Drug": "Avatrombopag (1)",
@@ -269,10 +293,16 @@
       "Labeling Sections": "Clinical Pharmacology"
     },
     {
-      "Drug": "Blinatumomab",
+      "Drug": "Blinatumomab (1)",
       "Therapeutic Area": "Oncology",
       "Biomarker": "BCR-ABL1 (Philadelphia chromosome)",
       "Labeling Sections": "Adverse Reactions, Clinical Studies"
+    },
+    {
+      "Drug": "Blinatumomab (2)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "CD19",
+      "Labeling Sections": "Indications and Usage"
     },
     {
       "Drug": "Boceprevir",
@@ -341,6 +371,18 @@
       "Labeling Sections": "Clinical Studies"
     },
     {
+      "Drug": "Cabotegravir and Rilpivirine (1)",
+      "Therapeutic Area": "Infectious Diseases",
+      "Biomarker": "HLA-B",
+      "Labeling Sections": "Clinical Studies"
+    },
+    {
+      "Drug": "Cabotegravir and Rilpivirine (2)",
+      "Therapeutic Area": "Infectious Diseases",
+      "Biomarker": "UGT1A1",
+      "Labeling Sections": "Clinical Pharmacology"
+    },
+    {
       "Drug": "Cabozantinib",
       "Therapeutic Area": "Oncology",
       "Biomarker": "RET",
@@ -395,6 +437,12 @@
       "Labeling Sections": "Drug Interactions, Clinical Pharmacology"
     },
     {
+      "Drug": "Casimersen",
+      "Therapeutic Area": "Neurology",
+      "Biomarker": "DMD",
+      "Labeling Sections": "Indications and Usage, Adverse Reactions, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
+    },
+    {
       "Drug": "Ceftriaxone (1)",
       "Therapeutic Area": "Infectious Diseases",
       "Biomarker": "G6PD",
@@ -411,6 +459,30 @@
       "Therapeutic Area": "Rheumatology",
       "Biomarker": "CYP2C9",
       "Labeling Sections": "Dosage and Administration, Use in Specific Populations, Clinical Pharmacology"
+    },
+    {
+      "Drug": "Cemiplimab-rwlc (1)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "ALK",
+      "Labeling Sections": "Indications and Usage, Clinical Studies"
+    },
+    {
+      "Drug": "Cemiplimab-rwlc (2)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "CD274 (PD-L1)",
+      "Labeling Sections": "Indications and Usage, Dosage and Administration, Clinical Studies"
+    },
+    {
+      "Drug": "Cemiplimab-rwlc (3)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "EGFR",
+      "Labeling Sections": "Indications and Usage, Clinical Studies"
+    },
+    {
+      "Drug": "Cemiplimab-rwlc (4)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "ROS1",
+      "Labeling Sections": "Indications and Usage, Clinical Studies"
     },
     {
       "Drug": "Ceritinib",
@@ -683,6 +755,12 @@
       "Labeling Sections": "Clinical Pharmacology"
     },
     {
+      "Drug": "Dostarlimab-gxly",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "Mismatch Repair",
+      "Labeling Sections": "Indication and Usage, Dosage and Administration, Adverse Reactions, Clinical Studies"
+    },
+    {
       "Drug": "Doxepin (1)",
       "Therapeutic Area": "Psychiatry",
       "Biomarker": "CYP2D6",
@@ -929,6 +1007,18 @@
       "Labeling Sections": "Indications and Usage, Dosage and Administration, Warnings and Precautions, Adverse Reactions, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
     },
     {
+      "Drug": "Evinacumab-dgnb (1)",
+      "Therapeutic Area": "Endocrinology",
+      "Biomarker": "LDLR",
+      "Labeling Sections": "Clinical Studies"
+    },
+    {
+      "Drug": "Evinacumab-dgnb (2)",
+      "Therapeutic Area": "Endocrinology",
+      "Biomarker": "Nonspecific (Homozygous Familial Hypercholesterolemia)",
+      "Labeling Sections": "Indication and Usage, Adverse Reactions, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
+    },
+    {
       "Drug": "Exemestane",
       "Therapeutic Area": "Oncology",
       "Biomarker": "ESR, PGR (Hormone Receptor)",
@@ -947,7 +1037,13 @@
       "Labeling Sections": "Drug Interactions, Clinical Pharmacology"
     },
     {
-      "Drug": "Fosphenytoin",
+      "Drug": "Fosphenytoin (1)",
+      "Therapeutic Area": "Neurology",
+      "Biomarker": "CYP2C9",
+      "Labeling Sections": "Warnings and Precautions, Use in Specific Populations, Clinical Pharmacology"
+    },
+    {
+      "Drug": "Fosphenytoin (2)",
       "Therapeutic Area": "Neurology",
       "Biomarker": "HLA-B",
       "Labeling Sections": "Warnings and Precautions"
@@ -1017,6 +1113,12 @@
       "Therapeutic Area": "Pulmonary",
       "Biomarker": "CYP2C19",
       "Labeling Sections": "Clinical Pharmacology"
+    },
+    {
+      "Drug": "Fosdenopterin",
+      "Therapeutic Area": "Neurology",
+      "Biomarker": "MOCS1",
+      "Labeling Sections": "Indications and Usage, Dosage and Administration, Adverse Reactions, Use in Specific Populations, Clinical Pharmacology, Clinical Studies"
     },
     {
       "Drug": "Fulvestrant (1)",
@@ -1106,7 +1208,7 @@
       "Drug": "Hydroxychloroquine",
       "Therapeutic Area": "Infectious Diseases",
       "Biomarker": "G6PD",
-      "Labeling Sections": "Precautions, Adverse Reactions"
+      "Labeling Sections": "Warnings and Precautions, Adverse Reactions"
     },
     {
       "Drug": "Ibrutinib (1)",
@@ -1173,6 +1275,12 @@
       "Therapeutic Area": "Neurology",
       "Biomarker": "AQP4",
       "Labeling Sections": "Indications and Usage, Clinical Studies"
+    },
+    {
+      "Drug": "Infigratinib",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "FGFR2",
+      "Labeling Sections": "Indications and Usage, Dosage and Administration, Clinical Studies"
     },
     {
       "Drug": "Inotersen",
@@ -1418,7 +1526,7 @@
       "Drug": "Lorlatinib (1)",
       "Therapeutic Area": "Oncology",
       "Biomarker": "ALK",
-      "Labeling Sections": "Indications and Usage, Adverse Reactions, Clinical Studies"
+      "Labeling Sections": "Indications and Usage, Dosage and Administration, Adverse Reactions, Clinical Studies"
     },
     {
       "Drug": "Lorlatinib (2)",
@@ -1709,6 +1817,12 @@
       "Labeling Sections": "Indications and Usage, Adverse Reactions, Clinical Studies"
     },
     {
+      "Drug": "Nivolumab (5)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "ERBB2 (HER2)",
+      "Labeling Sections": "Adverse Reactions, Clinical Studies"
+    },
+    {
       "Drug": "Nortriptyline",
       "Therapeutic Area": "Psychiatry",
       "Biomarker": "CYP2D6",
@@ -1955,6 +2069,12 @@
       "Labeling Sections": "Indications and Usage, Dosage and Administration, Clinical Studies"
     },
     {
+      "Drug": "Pembrolizumab (7)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "ERBB2 (HER2)",
+      "Labeling Sections": "Indications and Usage, Adverse Reactions, Clinical Studies"
+    },
+    {
       "Drug": "Pemigatinib",
       "Therapeutic Area": "Oncology",
       "Biomarker": "FGFR2",
@@ -1982,7 +2102,7 @@
       "Drug": "Phenytoin (1)",
       "Therapeutic Area": "Neurology",
       "Biomarker": "CYP2C9",
-      "Labeling Sections": "Clinical Pharmacology"
+      "Labeling Sections": "Warnings and Precautions, Use in Specific Populations, Clinical Pharmacology"
     },
     {
       "Drug": "Phenytoin (2)",
@@ -1994,7 +2114,7 @@
       "Drug": "Phenytoin (3)",
       "Therapeutic Area": "Neurology",
       "Biomarker": "HLA-B",
-      "Labeling Sections": "Warnings"
+      "Labeling Sections": "Warnings and Precautions"
     },
     {
       "Drug": "Pimozide",
@@ -2339,6 +2459,12 @@
       "Labeling Sections": "Clinical Studies"
     },
     {
+      "Drug": "Sotorasib",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "KRAS",
+      "Labeling Sections": "Indication and Usage, Dosage and Administration, Adverse Reactions, Clinical Pharmacology, Clinical Studies"
+    },
+    {
       "Drug": "Succimer",
       "Therapeutic Area": "Hematology",
       "Biomarker": "G6PD",
@@ -2463,6 +2589,24 @@
       "Therapeutic Area": "Infectious Diseases",
       "Biomarker": "IFNL3 (IL28B)",
       "Labeling Sections": "Clinical Pharmacology, Clinical Studies"
+    },
+    {
+      "Drug": "Tepotinib (1)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "ALK",
+      "Labeling Sections": "Clinical Studies"
+    },
+    {
+      "Drug": "Tepotinib (2)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "EGFR",
+      "Labeling Sections": "Clinical Studies"
+    },
+    {
+      "Drug": "Tepotinib (3)",
+      "Therapeutic Area": "Oncology",
+      "Biomarker": "MET",
+      "Labeling Sections": "Indications and Usage, Dosage and Administration, Adverse Reactions, Use in Specific Populations, Clinical Studies"
     },
     {
       "Drug": "Tetrabenazine",
@@ -2691,6 +2835,18 @@
       "Therapeutic Area": "Psychiatry",
       "Biomarker": "CYP2D6",
       "Labeling Sections": "Drug Interactions, Use in Specific Populations, Clinical Pharmacology"
+    },
+    {
+      "Drug": "Viloxazine (1)",
+      "Therapeutic Area": "Psychiatry",
+      "Biomarker": "CYP2D6",
+      "Labeling Sections": "Clinical Pharmacology"
+    },
+    {
+      "Drug": "Viloxazine (2)",
+      "Therapeutic Area": "Psychiatry",
+      "Biomarker": "SLCO1B1",
+      "Labeling Sections": "Clinical Pharmacology"
     },
     {
       "Drug": "Viltolarsen",
