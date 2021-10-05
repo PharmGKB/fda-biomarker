@@ -4,7 +4,7 @@
   "description": "FDA Biomarker parser",
   "main": "biomarker.js",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "dotenv": "^10.0.0",
     "jsdom": "^16.6.0",
     "md5": "^2.3.0",
